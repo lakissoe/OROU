@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Aurélia AKISSOE";
+            document.title = "Portfolio | Damien OROU N'GOBI";
             $("#favicon").attr("href", "assets/images/digital marketing2.png");
         }
         else {
@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Stratégie de marque","Markéting d'influence et réseaux sociaux", "Veille permanente du marché", "Modèles de communication durables", "Analyse des tendances du marché", "Rédaction", "Conduite de campagnes"],
+    strings: ["Transition écologique des territoires","Pilotage de politiques publiques", "Animation de la Fresque du Climat", "Maîtrise des scénarios prospectifs", "Analyse multicritère et prospective territoriale", "Veille réglementaire et juridique", "Analyse de comptabilité carbone"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
