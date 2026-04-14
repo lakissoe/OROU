@@ -1,15 +1,15 @@
 [
     {
         "name": "Diagnostic territorial et Bilan Carbone®", 
-        "icon": "assets/images/skills/strategie.png"
+        "icon": "assets/images/skills/CO2.jpg"
     },
     {
         "name": "Pilotage de PCAET (Plans Climat-Air-Énergie Territoriaux)", 
-        "icon": "assets/images/skills/socialmedia.png"
+        "icon": "assets/images/skills/pcaet.jpg"
     },
     {
         "name": "Maîtrise des outils SIG (QGIS)",
-        "icon": "assets/images/skills/copywriting.png"
+        "icon": "assets/images/skills/QGIS.jpg"
     },
     {
         "name": "Modélisation énergétique (PVSyst)", 
