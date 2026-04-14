@@ -13,11 +13,11 @@
     },
     {
         "name": "Modélisation énergétique (PVSyst)", 
-        "icon": "assets/images/skills/editorial.png" 
+        "icon": "assets/images/skills/PVSyst.jpg" 
     },
     {
     "name": "Analyse de données (Langage R, Excel avancé)", 
-    "icon": "assets/images/skills/analytics.png"
+    "icon": "assets/images/skills/dataR.jpg"
     },
     {
         "name": "Tableur V8-IFC et outils de reporting",
