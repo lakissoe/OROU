@@ -33,7 +33,7 @@
     },
     {
         "name": "Montage de projets d’énergies renouvelables",
-        "icon": "assets/images/skills/video.png"
+        "icon": "assets/images/skills/EnergieRen.jpg"
     },
     {
         "name": "Gestion de projet environnemental",
@@ -45,7 +45,7 @@
     },
     {
         "name": "Animation d’ateliers Fresque du Climat",
-        "icon": "assets/images/skills/press.png"
+        "icon": "assets/images/skills/atelier.jpg"
     },
     {
         "name": "Intégration des enjeux de transition dans les documents d’urbanisme (PLU, PLUi, SCOT)",
@@ -53,7 +53,7 @@
     },
     {
         "name": "Sensibilisation et communication climatique",
-        "icon": "assets/images/skills/project.png"
+        "icon": "assets/images/skills/sensibilisation.jpg"
     },
     {
         "name": "Déploiement de politiques de qualité de l’air et classification des Local Climate Zones (LCZ)",
