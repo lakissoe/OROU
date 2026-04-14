@@ -1,70 +1,70 @@
 [
     {
-        "name": "Stratégie de communication et marketing multicanal", 
+        "name": "Diagnostic territorial et Bilan Carbone®", 
         "icon": "assets/images/skills/strategie.png"
     },
     {
-        "name": "Gestion et animation des réseaux sociaux", 
+        "name": "Pilotage de PCAET (Plans Climat-Air-Énergie Territoriaux)", 
         "icon": "assets/images/skills/socialmedia.png"
     },
     {
-        "name": "Rédaction de contenus (articles, posts, communiqués de presse)",
+        "name": "Maîtrise des outils SIG (QGIS)",
         "icon": "assets/images/skills/copywriting.png"
     },
     {
-        "name": "Planification éditoriale (Hootsuite, Planoly)", 
+        "name": "Modélisation énergétique (PVSyst)", 
         "icon": "assets/images/skills/editorial.png" 
     },
     {
-    "name": "Publicité digitale (Google Ads, Facebook Ads, LinkedIn Ads)", 
+    "name": "Analyse de données (Langage R, Excel avancé)", 
     "icon": "assets/images/skills/analytics.png"
     },
     {
-        "name": "Email marketing et automatisation",
+        "name": "Tableur V8-IFC et outils de reporting",
         "icon":"assets/images/skills/emailmarketing.png"
     },
     {
-        "name": "A/B Testing et optimisation du taux de clics",
+        "name": "Création de tableaux de bord (Power BI, Excel)",
         "icon": "assets/images/skills/abtesting.png"
     },
     {
-        "name": "Création visuelle (Photoshop, CapCut, Canva)",
+        "name": "Gestion de versions avec Git/GitHub",
         "icon": "assets/images/skills/creativity.png"
     },
     {
-        "name": "Montage vidéo",
+        "name": "Montage de projets d’énergies renouvelables",
         "icon": "assets/images/skills/video.png"
     },
     {
-        "name": "Analyse de données marketing (Tableau, Data Studio, Pipedrive CRM)",
+        "name": "Gestion de projet environnemental",
         "icon": "assets/images/skills/dataviz.png"
     },
     {
-        "name": "Reporting et tableaux de bord (Excel, PowerPoint)",
+        "name": "Veille réglementaire et juridique (climat, énergie, air)",
         "icon": "assets/images/skills/reporting.png"
     },
     {
-        "name": "Relations presse et partenariats médias",
+        "name": "Animation d’ateliers Fresque du Climat",
         "icon": "assets/images/skills/press.png"
     },
     {
-        "name": "Recherche de sponsors et gestion d’événements",
+        "name": "Intégration des enjeux de transition dans les documents d’urbanisme (PLU, PLUi, SCOT)",
         "icon": "assets/images/skills/event.png"
     },
     {
-        "name": "Gestion de projet marketing pour clients",
+        "name": "Sensibilisation et communication climatique",
         "icon": "assets/images/skills/project.png"
     },
     {
-        "name": "Étude de marché et veille concurrentielle",
+        "name": "Déploiement de politiques de qualité de l’air et classification des Local Climate Zones (LCZ)",
         "icon": "assets/images/skills/marketresearch.png"
     },
     {
-        "name": "Automatisation et segmentation marketing",
+        "name": "Capacité à travailler en transversalité (avec les services techniques, élus, associations)",
         "icon": "assets/images/skills/automation.png"
     },
     {
-        "name": "Création d’identité de marque et storytelling",
+        "name": "Ingénierie financière et montage de dossiers de subvention",
         "icon": "assets/images/skills/branding.png"
     }
 
