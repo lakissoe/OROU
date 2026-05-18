@@ -1,20 +1,20 @@
 [
   {
-    "name": "Étude de l’engagement social dans une émission de téléréalité",
-    "desc": "Contribution en tant que stagiaire",
-    "image": "plusbelle",
+    "name": "Problématique de la production du coton biologique dans la commune de Banikoara",
+    "desc": "Mémoire de maitrise",
+    "image": "coton",
     "category": "Stages",
     "links": {
-      "view": "assets/ppt&memoire.pdf"
+      "view": "assets/mmoire_maitrise_orou_ngobi.pdf"
     }
   },
   {
-    "name": "Gestion de la page Facebook – Le Brunch",
-    "desc": "Freelance – Community Management",
-    "image": "brunch2",
+    "name": "IMPACTS DE LA VARIABILITE CLIMATIQUE ET DES PRESSIONS ANTHROPIQUES SUR LA VEGETATION DE LA FORÊT CLASSÉE DES TROIS RIVIÈRES AU NORD DU BENIN",
+    "desc": "MEMOIRE DE MASTER RECHERCHE",
+    "image": "foret3rivière",
     "category": "Expérience professionnelle",
     "links": {
-      "view": "https://www.facebook.com/share/17aLf885T8/"
+      "view": "assets/memoirdemasterfinalOrouNgobi.pdf"
     }
   },
   {
