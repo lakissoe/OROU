@@ -3,7 +3,7 @@
     "name": "Problématique de la production du coton biologique dans la commune de Banikoara",
     "desc": "Mémoire de maitrise",
     "image": "coton",
-    "category": "Stages",
+    "category": "Travaux académiques",
     "links": {
       "view": "assets/mmoire_maitrise_orou_ngobi.pdf"
     }
@@ -11,19 +11,19 @@
   {
     "name": "IMPACTS DE LA VARIABILITE CLIMATIQUE ET DES PRESSIONS ANTHROPIQUES SUR LA VEGETATION DE LA FORÊT CLASSÉE DES TROIS RIVIÈRES AU NORD DU BENIN",
     "desc": "MEMOIRE DE MASTER RECHERCHE",
-    "image": "foret3rivière",
-    "category": "Expérience professionnelle",
+    "image": "foret3riviere",
+    "category": "Travaux académiques",
     "links": {
       "view": "assets/memoirdemasterfinalOrouNgobi.pdf"
     }
   },
   {
-  "name": "Gestion de la page Instagram – Le Brunch",
-  "desc": "Freelance – Community Management",
+  "name": "Dynamique de l’occupation du sol dans la forêt classée des trois rivières au Nord Bénin dans un contexte de variabilité climatique",
+  "desc": "Publication scientifique",
   "image": "brunch",
-  "category": "Expérience professionnelle",
+  "category": "Travaux académiques",
   "links": {
-    "view": "https://www.instagram.com/le_brunch229/"
+    "view":"assets/AS-1732020_1_2597.pdf"
     }
   },
   {
