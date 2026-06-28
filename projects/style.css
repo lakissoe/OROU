@@ -318,34 +318,29 @@ header .navbar ul li a:hover{
   transform: translateX(-8px);
 }
 /* work section ends */
-/* Accordion styles */
+
+/* ===== Styles pour l'accordéon ===== */
 .accordion-input {
   display: none;
 }
 
 .accordion-btn {
   display: inline-block;
-  background: transparent;
-  border: 1px solid #fff;
-  color: #fff;
-  cursor: pointer;
-  padding: 0.8rem 1.5rem;
-  font-weight: 500;
-  border-radius: 3px;
-  position: relative;
-  margin-top: 1rem;
-  transition: all 0.3s ease;
-}
-
-.accordion-btn:hover {
-  background-color: #fff;
+  background: none;
+  border: none;
   color: #000;
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 1.2rem;
+  position: relative;
+  padding-right: 20px;
+  margin-top: 0.5rem;
 }
 
 .accordion-btn::after {
   content: "+";
   position: absolute;
-  right: 10px;
+  right: 0;
   font-size: 1.2em;
 }
 
@@ -354,14 +349,11 @@ header .navbar ul li a:hover{
   overflow: hidden;
   transition: max-height 0.3s ease-out;
   padding: 0;
-  margin-top: 0.5rem;
 }
 
 .accordion-input:checked ~ .accordion-content {
   max-height: 500px;
-  padding: 1rem;
-  background: rgba(255, 255, 255, 0.1);
-  border-radius: 3px;
+  padding: 1rem 0;
 }
 
 .accordion-input:checked ~ .accordion-btn::after {
@@ -369,15 +361,45 @@ header .navbar ul li a:hover{
 }
 
 .accordion-content ul {
-  margin: 0;
-  padding-left: 1.5rem;
+  margin: 0.5rem 0 0 1.5rem;
+  padding: 0;
 }
 
 .accordion-content li {
-  color: #fff;
   margin-bottom: 0.5rem;
   line-height: 1.4;
-  font-size: 1.4rem;
+  font-size: 1.1rem;
+}
+
+/* Style pour le container left (si nécessaire) */
+.container.left {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+  background: #4ECDC4;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  color: #000;
+}
+
+.container.left .tag h2 {
+  margin: 0;
+  font-size: 1.8rem;
+  color: #000;
+  padding-bottom: 0.5rem;
+}
+
+.container.left .desc h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.5rem;
+  color: #000;
+}
+
+.container.left .desc p {
+  margin: 0 0 1rem 0;
+  font-size: 1.2rem;
+  color: #333;
 }
 
 /* common media queries starts*/
