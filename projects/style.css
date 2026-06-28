@@ -317,9 +317,6 @@ header .navbar ul li a:hover{
 .backbtn .btn:hover i {
   transform: translateX(-8px);
 }
-/* work section ends */
-
-/* ===== Styles pour l'accordéon ===== */
 .accordion-input {
   display: none;
 }
@@ -401,6 +398,7 @@ header .navbar ul li a:hover{
   font-size: 1.2rem;
   color: #333;
 }
+/* work section ends */
 
 /* common media queries starts*/
 @media(max-width:450px){
