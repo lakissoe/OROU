@@ -318,6 +318,67 @@ header .navbar ul li a:hover{
   transform: translateX(-8px);
 }
 /* work section ends */
+/* Accordion styles */
+.accordion-input {
+  display: none;
+}
+
+.accordion-btn {
+  display: inline-block;
+  background: transparent;
+  border: 1px solid #fff;
+  color: #fff;
+  cursor: pointer;
+  padding: 0.8rem 1.5rem;
+  font-weight: 500;
+  border-radius: 3px;
+  position: relative;
+  margin-top: 1rem;
+  transition: all 0.3s ease;
+}
+
+.accordion-btn:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+.accordion-btn::after {
+  content: "+";
+  position: absolute;
+  right: 10px;
+  font-size: 1.2em;
+}
+
+.accordion-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out;
+  padding: 0;
+  margin-top: 0.5rem;
+}
+
+.accordion-input:checked ~ .accordion-content {
+  max-height: 500px;
+  padding: 1rem;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 3px;
+}
+
+.accordion-input:checked ~ .accordion-btn::after {
+  content: "-";
+}
+
+.accordion-content ul {
+  margin: 0;
+  padding-left: 1.5rem;
+}
+
+.accordion-content li {
+  color: #fff;
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+  font-size: 1.4rem;
+}
 
 /* common media queries starts*/
 @media(max-width:450px){
