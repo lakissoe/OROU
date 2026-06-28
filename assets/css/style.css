@@ -937,6 +937,47 @@ header .navbar ul li a:hover {
     margin-top: 3rem;
   }
 }
+/* ===========================
+   Accordéon des missions
+=========================== */
+
+.accordion-btn {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 8px 18px;
+  background: #02094b;
+  color: #fff;
+  border-radius: 30px;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 600;
+  transition: .3s;
+}
+
+.accordion-btn:hover {
+  background: #04146f;
+}
+
+.accordion-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height .4s ease;
+}
+
+.accordion-input:checked + .accordion-btn + .accordion-content {
+  max-height: 600px;
+  margin-top: 15px;
+}
+
+.accordion-content ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.accordion-content li {
+  margin: 8px 0;
+  line-height: 1.6;
+}
 /* experience media queries ends */
 /* experience section ends */
 
